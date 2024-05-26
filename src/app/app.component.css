@@ -1,0 +1,66 @@
+
+
+.navigation-bar{
+    margin-left: 350px;
+}
+.text-vettspace{
+    margin-top: 150px;
+    margin-left: 100px; 
+    text-transform: uppercase;
+}
+.text-vettspace-2{
+    margin-left: 100px;
+}
+/* .imag-2{
+    background-image: url(../assets/happy-manager-leads-a-meeting-in-the-office-640x427.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} */
+.image{
+    margin-left: 100px;
+   
+    /* color: darkblue; */
+}
+.main-section{
+    background-color:#0b064d;
+}
+.main-section-4{
+    background-image: linear-gradient(purple,#0a1b3b)
+
+}
+.card-1{
+    margin-top: 150px;
+    background-color:#0b064d;
+    border: 1px solid white;
+}
+.card-2{
+    margin-top: 200px;
+    font-size: 35px;
+    margin-left: 90px;
+}
+.card-3{
+    margin-left: 90px;
+    
+}
+.card-4{
+    margin-top: 170px;
+
+}
+.icons{
+    color: #083079;
+}
+.card-5{
+    margin-top: 150px;
+    border: 5px solid #04286b;
+   
+}
+.card-8{
+    border: 5px solid #04286b;
+}
+.card-7{
+    margin-left: 120px;
+}
+.card-9{
+    border: 1px solid skyblue;
+}
