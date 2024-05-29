@@ -2,9 +2,20 @@
 
 .navigation-bar{
     margin-left: 350px;
+    margin-bottom: 0px;
 }
+/* .image-right-1{
+    float: right;
+
+}
+.image-right-2{
+    border-radius: 300px 0px 0px 300px;
+    height: 90vh;
+    width: 700px;
+} */
 .text-vettspace{
     margin-top: 150px;
+    /* line-height: 170px; */
     margin-left: 100px; 
     text-transform: uppercase;
 }
@@ -26,7 +37,10 @@
     /* color: darkblue; */
 }
 .card-11{
-margin-left: 30px;
+margin-left: 150px;
+}
+.card-13{
+    margin-left: 30px;
 }
 .main-section{
     background-color:#0b064d;
@@ -79,13 +93,24 @@ margin-left: 30px;
 
     }
     .card-11{
-        margin-left: 30px;
+        margin-left: 0px;
         }
     
 }
 @media screen and (max-width: 1350px){
     .card-11{
-        margin-left: 60px;
+        margin-left: 120px;
+        }
+        .card-13{
+            margin-left: 30px;
+        }
+}
+@media screen and (max-width: 1250px){
+    .card-11{
+        margin-left: 120px;
+        }
+        .card-13{
+            margin-left: 70px;
         }
 }
 @media screen and (max-width: 990px){
@@ -101,13 +126,16 @@ margin-left: 30px;
         margin-left: 20px;
         
     }
+    .card-13{
+        margin-left: 120px;
+    }
 
 
  .card-10{
     margin-left: 0px;
  }
  .card-11{
-    margin-left: 120px;
+    margin-left: 50px;
  }
  .card-7{
     margin-left: 0px;
@@ -127,13 +155,17 @@ margin-left: 30px;
         margin-left: 0px;
     }
     .card-11{
-        margin-left: 110px;
+        margin-left: 0px;
+     }
+     .card-13{
+        margin-left: 120px;
      }
      .card-5{
         margin-top: 50px;
         border: 5px solid #04286b;
        
     }
+
     .card-4{
         margin-top: 90px;
     
@@ -175,11 +207,11 @@ margin-left: 30px;
 }
 @media screen and (max-width: 610px){
     .card-11{
-        margin-left: 80px;
+        margin-left: 0px;
      }
      .card-7{
         margin-left: 0px;
-      display: flex;
+        display: flex;
     }
  
 
@@ -187,5 +219,15 @@ margin-left: 30px;
         margin-left: 0px;
     }
     
+}
+@media screen and (max-width: 590px){
+    .card-11{
+        margin-left: 0px;
+        display: flex;
+     }
+     .card-13{
+        margin-left: 0px;
+        display: flex;
+     }
 }
 
