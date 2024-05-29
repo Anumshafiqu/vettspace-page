@@ -8,6 +8,9 @@
     margin-left: 100px; 
     text-transform: uppercase;
 }
+.active{
+    margin-left: 40px;
+}
 .text-vettspace-2{
     margin-left: 100px;
 }
@@ -21,6 +24,9 @@
     margin-left: 100px;
    
     /* color: darkblue; */
+}
+.card-11{
+margin-left: 30px;
 }
 .main-section{
     background-color:#0b064d;
@@ -64,3 +70,122 @@
 .card-9{
     border: 1px solid skyblue;
 }
+@media screen and (max-width: 1300px){
+    .navigation-bar{
+        margin-left: 200px;
+    }
+    .image{
+        margin-left: 70px;
+
+    }
+    .card-11{
+        margin-left: 30px;
+        }
+    
+}
+@media screen and (max-width: 1350px){
+    .card-11{
+        margin-left: 60px;
+        }
+}
+@media screen and (max-width: 990px){
+    .navigation-bar{
+        margin-left: 100px;
+    }
+    .card-2{
+        margin-top: 200px;
+        font-size: 35px;
+        margin-left: 20px;
+    }
+    .card-3{
+        margin-left: 20px;
+        
+    }
+
+
+ .card-10{
+    margin-left: 0px;
+ }
+ .card-11{
+    margin-left: 120px;
+ }
+ .card-7{
+    margin-left: 0px;
+ }
+ /* .card-12{
+    margin-left: 100px;
+ } */
+
+}
+@media screen and (max-width: 1000px){
+    .navigation-bar{
+        margin-left: 0px;
+    }
+}
+@media screen and (max-width: 890px){
+    .navigation-bar{
+        margin-left: 0px;
+    }
+    .card-11{
+        margin-left: 110px;
+     }
+     .card-5{
+        margin-top: 50px;
+        border: 5px solid #04286b;
+       
+    }
+    .card-4{
+        margin-top: 90px;
+    
+    }
+    .card-1{
+        margin-top: 100px;
+        background-color:#0b064d;
+        border: 1px solid white;
+    }
+    .card-2{
+        margin-top: 90px;
+
+    }
+    .card-7{
+        margin-left: 0px;
+        
+    }
+    .active{
+        margin-left: 10px;
+    }
+.image{
+    margin-left: 180px;
+}
+
+}
+@media screen and (max-width: 600px){
+.card-7{
+    margin-left: 0px;
+}
+.card-11{
+    margin-left: 0px;
+ }
+ .card-11{
+    margin-left: 0px;
+ }
+ .active{
+    margin-left: 0px;
+}
+}
+@media screen and (max-width: 610px){
+    .card-11{
+        margin-left: 80px;
+     }
+     .card-7{
+        margin-left: 0px;
+      display: flex;
+    }
+ 
+
+    .active{
+        margin-left: 0px;
+    }
+    
+}
+
